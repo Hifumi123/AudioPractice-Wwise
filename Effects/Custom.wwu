@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{577885D0-4F77-4704-81CA-6D129E0B955B}" SchemaVersion="97">
+	<Effects>
+		<WorkUnit Name="Custom" ID="{577885D0-4F77-4704-81CA-6D129E0B955B}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="Wwise_Peak_Limiter_Custom" ID="{CA4644B1-CA73-4B2B-906B-4372CA59370E}" PluginName="Wwise Peak Limiter" CompanyID="0" PluginID="110" PluginType="3">
+					<PropertyList>
+						<Property Name="Ratio" Type="Real32" Value="50"/>
+						<Property Name="Threshold" Type="Real32" Value="-1"/>
+					</PropertyList>
+				</Effect>
+				<Effect Name="Wwise_Meter_Custom" ID="{81F74989-518D-43B1-BE84-0709886400C1}" PluginName="Wwise Meter" CompanyID="0" PluginID="129" PluginType="3">
+					<PropertyList>
+						<Property Name="AttackTime" Type="Real32" Value="0.05"/>
+						<Property Name="Color" Type="int16" Value="4"/>
+						<Property Name="MeterMode" Type="int32" Value="1"/>
+						<Property Name="Min" Type="Real32" Value="-60"/>
+						<Property Name="ReleaseTime" Type="Real32" Value="1.2"/>
+					</PropertyList>
+					<PluginData>
+	<GameParameter Name="Character_SideChain" ID="{4579108F-ECA0-4DF3-BA7F-56F5B240579B}"/>
+</PluginData>
+				</Effect>
+			</ChildrenList>
+		</WorkUnit>
+	</Effects>
+</WwiseDocument>

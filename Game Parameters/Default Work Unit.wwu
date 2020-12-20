@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E24C6A7E-60D7-490C-84C9-A6732D84255B}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{E24C6A7E-60D7-490C-84C9-A6732D84255B}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="WindVolume" ID="{D3E32714-83A3-423C-AE92-84E27E679FB0}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="SFXVolumeCtrl" ID="{74D15E98-6F1C-45DD-BED8-78A8632E2867}"/>
+				<GameParameter Name="SoundVolumeCtrl" ID="{D4F87C76-9FBC-4A4D-8130-8DE05BACBDBD}"/>
+				<GameParameter Name="VoiceVolumeCtrl" ID="{0C191BA6-E5C5-475D-9D47-9132256F21EA}"/>
+				<GameParameter Name="Character_SideChain" ID="{4579108F-ECA0-4DF3-BA7F-56F5B240579B}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="-60"/>
+						<Property Name="Max" Type="Real64" Value="0"/>
+						<Property Name="Min" Type="Real64" Value="-60"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="97">
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1608294442" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Virtual Acoustics\Default Work Unit.wwu" DateLow="1608294551" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Triggers\Default Work Unit.wwu" DateLow="1608294551" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Switches\Default Work Unit.wwu" DateLow="1608294551" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\States\Default Work Unit.wwu" DateLow="1608294551" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1608294551" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\SoundBanks\Default Work Unit.wwu" DateLow="1608307064" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Queries\Factory Queries.wwu" DateLow="1608294417" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Queries\Default Work Unit.wwu" DateLow="1608294551" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Presets\Factory Spatial Audio.wwu" DateLow="1608294417" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Presets\Factory Reflect.wwu" DateLow="1608294442" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Presets\Default Work Unit.wwu" DateLow="1608294551" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Modulators\Default Work Unit.wwu" DateLow="1608294551" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Mixing Sessions\Default Work Unit.wwu" DateLow="1608294551" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1608309351" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1608294551" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1608294442" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Game Parameters\Factory Motion.wwu" DateLow="1608294439" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Game Parameters\Default Work Unit.wwu" DateLow="1608307559" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Events\Default Work Unit.wwu" DateLow="1608307059" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Effects\Factory Reflect.wwu" DateLow="1608294442" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Effects\Factory McDSP Effects.wwu" DateLow="1608294448" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Effects\Factory Mastering Suite.wwu" DateLow="1608294438" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1608294446" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1608294446" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1608294446" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Effects\Factory iZotope Filters.wwu" DateLow="1608294446" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Effects\Factory iZotope Dynamics.wwu" DateLow="1608294446" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Effects\Factory iZotope Delay.wwu" DateLow="1608294446" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Effects\Factory iZotope Box Modeler.wwu" DateLow="1608294446" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Effects\Factory Effects.wwu" DateLow="1608294417" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Effects\Factory Auro Headphone.wwu" DateLow="1608294443" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Effects\Default Work Unit.wwu" DateLow="1608294551" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Effects\Custom.wwu" DateLow="1608309322" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1608294551" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1608294417" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Conversion Settings\Default Work Unit.wwu" DateLow="1608294551" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Control Surface Sessions\Default Work Unit.wwu" DateLow="1608294551" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\AudioPractice.wproj" DateLow="1608367076" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\AudioPractice.Hifumi.wsettings" DateLow="1608366617" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Audio Devices\Default Work Unit.wwu" DateLow="1608294557" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Attenuations\Default Work Unit.wwu" DateLow="1608294551" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1608294417" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1608294442" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1608294557" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Work\Wwise\AudioPractice\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1608361702" DateHigh="0"/>
+</ValidationCache>
